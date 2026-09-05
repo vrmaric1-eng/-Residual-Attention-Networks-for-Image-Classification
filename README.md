@@ -28,10 +28,15 @@ tiny-imagenet-200-modified.zip sadrzi folder za treniranje i testiranje
 Github nije dozvolio nekeda se uploaduju, iz nepoznatog razloga, pa su uploadovani takodje na drive.
 
 [1] - Residual Attention Networks for Image Classification - Thaminda Edirisooriya
+
 [2] - A ConvNet for the 2020s - Liu et al.
+
 [3] - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale - Dosovitskiy et al.
+
 [4] - Swin Transformer: Hierarchical Vision Transformer using Shifted Windows - Liu et al.
+
 [5] - Training data-efficient image transformers & distillation through attention - Touvron et al.
+
 [6] - Vision Transformers in 2022: An Update on Tiny Imagenet - Ethan M. Huynh
 
 
