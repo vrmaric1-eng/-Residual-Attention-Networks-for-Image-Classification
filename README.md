@@ -10,7 +10,9 @@ Izbacivanje 25 slika po klasi iz trening skupa da bi se napravio holout set od 5
 
 ## Folderi
 1 Folder sadrzi svesku gde se analizira skup podatak koji se koisiti za trening i validaciju,
+
 2 Folder sadrzi 3 sveske, svaka je za po jedan model. Svekse predstavljaju nootbooks u stanju nakon treniranja model. Modeli su trenirani na Google Colabu. Samim tim i putanje su u odnsu na to okruzenje.
+
 3 Folder sadrzi 3 sveske. Prva sveka racuna metrike na test skupu za Convnext model. Druga sveska za Vit i Swin modele. Prva i druga sveska generisu .json fajlove gde su zapisane metrike. Treca sveska pravi poredjenja i generise grafikone, koji su sacuvani u odgovarajucem folderu.
 
 ## Skup podataka i obuceni modeli
