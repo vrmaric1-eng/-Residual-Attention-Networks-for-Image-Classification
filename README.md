@@ -17,3 +17,8 @@ Izbacivanje 25 slika po klasi iz trening skupa da bi se napravio holout set od 5
 
 ## Skup podataka i obuceni modeli
 Zbog nemogucnosti da se uploaduju modeli i skup podataka, isti su dostupno na: https://drive.google.com/drive/folders/1gzkktVM-l9amugXDLynvR7WpCbIIou1x?usp=sharing
+
+trained_models.zip i tiny-imagenet-200-modified-testholdout.zip treba raspakovati u folderu gde su svekse za evaluaciju. Takoodje pre pokretanja treba kreirati evaluation_results folder za cuvanje slika. 
+
+iny-imagenet-200-modified.zip sadrzi folder za treniranje i testiranje
+
