@@ -17,6 +17,8 @@ Izbacivanje 25 slika po klasi iz trening skupa da bi se napravio holout set od 5
 
 4 Folder sadrzi tzv. faild runs, tj. pokusaje treniranje koje nisu dosegel zeljenu tacnost (hence njihov naziv). Nisu namenjni za pokretanje, vise kao primer, jer su radjeni bez regularizacije.
 
+5 Folder sazdrzi svekseu u kojima je uradjen Transfer learning, Korisceni su pretrenirani modeli, i samo se obucavao poslednji sloj.
+
 ## Skup podataka i obuceni modeli
 Zbog nemogucnosti da se uploaduju modeli i skup podataka, isti su dostupno na: https://drive.google.com/drive/folders/1gzkktVM-l9amugXDLynvR7WpCbIIou1x?usp=sharing
 
