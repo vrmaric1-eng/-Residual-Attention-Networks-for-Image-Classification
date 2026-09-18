@@ -1,8 +1,10 @@
 {
     "top1_acc": 0.4878,
+    "top5_acc": 0.7442,
+    "top10_acc": 0.8336,
     "loss": 2.284977655029297,
     "macro_precision": 0.47750986490459824,
     "macro_recall": 0.4878,
     "macro_f1": 0.47443398044899426,
-    "throughput_img_s": 361.7020634409102
+    "throughput_img_s": 315.3441364880117
 }
