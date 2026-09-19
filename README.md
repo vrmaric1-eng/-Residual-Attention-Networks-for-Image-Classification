@@ -26,6 +26,8 @@ trained_models.zip i tiny-imagenet-200-modified-testholdout.zip treba raspakovat
 
 tiny-imagenet-200-modified.zip sadrzi folder za treniranje i testiranje
 
+preTrainedTrasnferLearning.zip sadrzi modele i svekse za Transfer learning
+
 ## Literatura
 Github nije dozvolio nekeda se uploaduju, iz nepoznatog razloga, pa su uploadovani takodje na drive.
 
